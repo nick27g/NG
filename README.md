@@ -6,7 +6,7 @@
 
 I am a Cybersecurity student at WGU who is dedicated to safeguarding digital environments and driving efficiency in the dynamic landscape of cybersecurity!
 
-I have a strong passion for computers, reading, mental health and fitness. I have three golden doodles who would love to meet you as well!
+I have a strong passion for computers, reading, mental health and fitness. I have three dogs and a pet hedgehog.
 
 ## Objective
 
