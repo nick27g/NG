@@ -10,7 +10,7 @@ I have a strong passion for computers, reading, mental health and fitness. I hav
 
 ## Objective
 
-My academic journey has led me to a passion for cybersecurity. I am thrilled to demonstrate my skills and transition into this ever-changing field. Ultimately, my goal is to become a Cloud Security Architect!
+My academic journey has led me to a passion for cybersecurity. I am thrilled to demonstrate my skills and transition into this ever-evolving field. Ultimately, my goal is to become a Cloud Security Architect!
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
@@ -30,20 +30,31 @@ My academic journey has led me to a passion for cybersecurity. I am thrilled to 
 [Provide tools and break them down into categories. Use ChatGPT to help create the link]
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
-<div>
-@@ -46,9 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
-</div>
+
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link]
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+
+<a href="[https://your-credly-badge-link](https://www.credly.com/badges/1f1e7920-4ea7-4532-9271-0088f9aff0ad/public_url)" target="_blank">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://your-credly-badge-link" target="_blank">
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+<a href="https://your-credly-badge-link" target="_blank">
+  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+
+  
 <img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-@@ -57,6 +56,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
+
 </div>
 
 ## Projects
@@ -51,3 +62,6 @@ My academic journey has led me to a passion for cybersecurity. I am thrilled to 
 - Detection Lab
 - SOC Automation Project
 - Test Project
+
+## Connect With Me!
+
