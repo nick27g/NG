@@ -33,8 +33,7 @@ My academic journey has led me to a passion for cybersecurity. I am thrilled to 
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link]
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 
 <a href="https://www.credly.com/badges/1f1e7920-4ea7-4532-9271-0088f9aff0ad/public_url)" target="_blank">
