@@ -49,13 +49,10 @@ My academic journey has led me to a passion for cybersecurity. I am thrilled to 
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
-
 <img src="https://img.shields.io/badge/-ITIL%204%20Foundation-6F00FF?&style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/-Grow%20with%20Google%3A%20IT%20Support%20Specialization-0F9D58?&style=for-the-badge" />
 
-
-  
-<img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
 
 
 </div>
