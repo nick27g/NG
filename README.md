@@ -1,17 +1,14 @@
-# Hello, I'm Nicholas
-# Hello, I'm CHANGEME
+# Hi! I'm Nick.
+
 <a href="https://linkedin.com/in/nghuneim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction]
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a Cybersecurity student at WGU who is dedicated to safeguarding digital environments and driving efficiency in the dynamic landscape of cybersecurity!
 
 ## Objective
-[Provide Objective]
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My academic journey has led me to a passion for cybersecurity. I am thrilled to demonstrate my skills and transition into this ever-changing field. Ultimately, my goal is to become a Cloud Security Architect!
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project]
