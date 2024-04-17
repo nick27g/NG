@@ -41,17 +41,17 @@ My academic journey has led me to a passion for cybersecurity. I am thrilled to 
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
-<a href="https://your-credly-badge-link" target="_blank">
+<a href="https://www.credly.com/badges/b558c963-34ff-421a-b529-b70d691ea918/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
-<a href="https://your-credly-badge-link" target="_blank">
+<a href="https://www.credly.com/badges/f0af1af3-3c58-4d02-866f-22b0df930a45/public_url" target="_blank">
   <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
   
 <img src="https://img.shields.io/badge/-CISSP-0052CC?style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
