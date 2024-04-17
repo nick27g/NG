@@ -37,7 +37,7 @@ My academic journey has led me to a passion for cybersecurity. I am thrilled to 
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 
-<a href="[https://your-credly-badge-link](https://www.credly.com/badges/1f1e7920-4ea7-4532-9271-0088f9aff0ad/public_url)" target="_blank">
+<a href="https://www.credly.com/badges/1f1e7920-4ea7-4532-9271-0088f9aff0ad/public_url)" target="_blank">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </a>
 
