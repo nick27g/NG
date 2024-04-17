@@ -2,9 +2,11 @@
 
 <a href="https://linkedin.com/in/nghuneim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+## Brief Intro
 
 I am a Cybersecurity student at WGU who is dedicated to safeguarding digital environments and driving efficiency in the dynamic landscape of cybersecurity!
+
+I have a strong passion for computers, reading, mental health and fitness. I have three golden doodles who would love to meet you as well!
 
 ## Objective
 
