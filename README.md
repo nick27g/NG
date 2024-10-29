@@ -1,8 +1,12 @@
 # Hi! I'm Nick.
 
+<div>
 <a href="https://linkedin.com/in/nghuneim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nickghuneim27@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6347?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+7089258703"><img src="https://img.shields.io/badge/-Phone-4caf50?&style=for-the-badge&logo=phone&logoColor=white" /></a>
+</div>
 
-## Brief Intro
+## Intro
 
 Dedicated and result-driven Cybersecurity graduate and IT professional, with a background in network management, troubleshooting, and enhancing security measures. Proven expertise in IT support, network security, scripting, and diverse operating systems. Committed to safeguarding digital environments and driving efficiency in Cybersecurity.
 
@@ -72,9 +76,4 @@ I have a strong passion for computers, reading, mental health and fitness. I hav
 - SOC Automation Project
 - Test Project
 
-## Connect With Me!
-<div>
-<a href="https://linkedin.com/in/nghuneim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:nickghuneim27@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6347?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+7089258703"><img src="https://img.shields.io/badge/-Phone-4caf50?&style=for-the-badge&logo=phone&logoColor=white" /></a>
-</div>
+
