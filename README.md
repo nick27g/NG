@@ -4,11 +4,8 @@
 <a href="https://linkedin.com/in/nghuneim"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:nickghuneim27@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6347?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+7089258703"><img src="https://img.shields.io/badge/-Phone-4caf50?&style=for-the-badge&logo=phone&logoColor=white" /></a>
-<a href="https://github.com/user-attachments/files/17602436/NG Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0a66c2?&style=for-the-badge&logo=readme&logoColor=white" /></a>
-
 <a href="https://github.com/nick27g/NG/raw/main/NG%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume-0a66c2?style=for-the-badge&logo=readme&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/-Resume-0a66c2?style=for-the-badge&logo=readme&logoColor=white" /></a>
 
 
 </div>
