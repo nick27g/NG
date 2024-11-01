@@ -28,8 +28,8 @@ I am open to relocation and more than willing to work onsite. I look forward to 
 |------------------------------------|-------------------------------------------------|
 | <a href="Net_Vulnerability_Assessment.md">Network Vulnerability Assessment</a> | Network Vulnerability Scanning, Risk Analysis, Reporting & Documentation, Zenmap, Wireshark, Remediation Planning, Security Compliance          |
 | <a href="Digital_Forensics.md">Digital Forensics Investigation</a> | Forensic Analysis, Incident Response, Data Recovery, Evidence Documentation, Autopsy          |
-| <a href="DLP_Implementation_Proposal.md">DLP Implementation Proposal</a> | Technical writing. |
-| <a href="DLP_Post_Implementation.md">DLP Post-Implementation Report</a> | Technical writing. |
+| <a href="DLP_Implementation_Proposal.md">DLP Implementation Proposal</a> | DLP, Access Control, Data Classification, Policy Development, HIPAA Compliance |
+| <a href="DLP_Post_Implementation.md">DLP Post-Implementation Report</a> | Post-Implementation Review, Audit & Compliance Reporting, Data Protection Optimization, Performance Metrics |
 | <a href="Enhancing_Information_Security.md">Enhancing Information Security Project</a> | Incident Response & Analysis, Risk Assessment, Phishing Awareness, Access Control, Data Protection & Compliance |
 
 
