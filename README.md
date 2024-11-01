@@ -24,8 +24,8 @@ I am open to relocation and more than willing to work onsite. I look forward to 
 
 | Skills                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Vulnerability Assessment          | <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Vulnerability Assessment Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Vulnerability Assessment          | <a href="Net_Vulnerability_Assessment.md">Network Vulnerability Assessment</a>|
+| SIEM Implementation and Log Analysis          | <a href="Net_Vulnerability_Assessment.md">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
