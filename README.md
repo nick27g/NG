@@ -30,6 +30,7 @@ I am open to relocation and more than willing to work onsite. I look forward to 
 | <a href="Digital_Forensics.md">Digital Forensics Investigation</a> | Digital Forensics Investigation          |
 | <a href="DLP_Implementation_Proposal.md">DLP Implementation Proposal</a> | Technical writing. |
 | <a href="DLP_Post_Implementation.md">DLP Post-Implementation Report</a> | Technical writing. |
+| <a href="Enhancing_Information_Security.md">Enhancing Information Security Project</a> | Incident Response & Analysis, Risk Assessment, Phishing Awareness, Access Control, Data Protection & Compliance |
 
 
 ---
