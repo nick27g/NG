@@ -10,11 +10,11 @@
 
 Dedicated and result-driven Cybersecurity graduate and IT professional, with a background in network management, troubleshooting, and enhancing security measures. Proven expertise in IT support, network security, scripting, and diverse operating systems. Committed to safeguarding digital environments and driving efficiency in Cybersecurity. I hold eight active certifications from organizations such as CompTIA, LPI, ISC2, and Axelos.
 
-Recently, I obtained my BS in Cybersecurity and Information Assurance at Western Governors University. This program has taught me the technical and logical skills needed to pursue a career in Cybersecurity. My ultimate goal is to find an organization to work for long term that has a strong sense of community and has plenty of growth opportunities.
+Recently, I obtained my BS in Cybersecurity and Information Assurance at Western Governors University. This program has taught me the technical and logical skills needed to pursue a career in Cybersecurity. My ultimate goal is to find an organization to work for long term that has a strong sense of community and plenty of growth opportunities.
 
-While my education has taught me a variety of skills for the Cybersecurity industry, I still have a lot to learn. In 2025, my goals are to become proficient in Microsoft Azure, Amazon Web Services, and Splunk. I am also studying to obtain my CCSP certification from ISC2.
+While my education and experience has taught me a variety of skills for the Cybersecurity industry, I still have a lot to learn. In 2025, my goals are to become proficient in Microsoft Azure, Amazon Web Services, and Splunk. I am also studying to obtain my CCSP certification from ISC2.
 
-I am open to relocation and more than willing to work onsite. 
+I am open to relocation and more than willing to work onsite. I look forward to connecting with you!
 
 
 
