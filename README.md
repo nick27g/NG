@@ -27,7 +27,7 @@ I am open to relocation and more than willing to work onsite. I look forward to 
 | Project                 | Skills/Knowledge Gained                                         |
 |------------------------------------|-------------------------------------------------|
 | <a href="Net_Vulnerability_Assessment.md">Network Vulnerability Assessment</a> | Network Vulnerability Assessment          |
-| <a href="Digital_Forensics.md">Digital Forensics</a> | Digital Forensics Investigation          |
+| <a href="Digital_Forensics.md">Digital Forensics Investigation</a> | Digital Forensics Investigation          |
 
 
 ---
