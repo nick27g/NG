@@ -20,27 +20,24 @@ While my education and experience has taught me a variety of skills for the Cybe
 
 I am open to relocation and more than willing to work onsite. I look forward to connecting with you!
 
-
+---
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project]
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skills                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Vulnerability Assessment          | <a href="Net_Vulnerability_Assessment.md">Network Vulnerability Assessment</a>|
-| Digital Forensics Investigation          | <a href="Digital_Forensics.md">Forensics Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Project                 | Skills/Knowledge Gained                                         |
+|------------------------------------|-------------------------------------------------|
+| <a href="Net_Vulnerability_Assessment.md">Network Vulnerability Assessment</a> | Network Vulnerability Assessment          |
+| <a href="Digital_Forensics.md">Digital Forensics</a> | Digital Forensics Investigation          |
+
+
+---
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link]
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+  - nmap
+  - Wireshark
+  - Autopsy
 
-
+---
 
 ## Certifications
 
@@ -79,11 +76,5 @@ I am open to relocation and more than willing to work onsite. I look forward to 
 
 
 </div>
-
-## Projects
-- <a href="https://github.com/Test-MyDFIR/Detection-Lab/tree/main">Detection Lab</a>
-- Detection Lab
-- SOC Automation Project
-- Test Project
 
 
