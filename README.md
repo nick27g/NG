@@ -28,6 +28,7 @@ I am open to relocation and more than willing to work onsite. I look forward to 
 |------------------------------------|-------------------------------------------------|
 | <a href="Net_Vulnerability_Assessment.md">Network Vulnerability Assessment</a> | Network Vulnerability Assessment          |
 | <a href="Digital_Forensics.md">Digital Forensics Investigation</a> | Digital Forensics Investigation          |
+| DLP Implementation Proposal and Post-Implementation Report | Technical writing. |
 
 
 ---
