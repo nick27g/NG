@@ -7,7 +7,6 @@
 <a href="https://github.com/user-attachments/files/17602436/N.G.Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0a66c2?&style=for-the-badge&logo=readme&logoColor=white" /></a>
 
 
-[N.G. Resume.pdf](https://github.com/user-attachments/files/17602436/N.G.Resume.pdf)
 
 </div>
 
