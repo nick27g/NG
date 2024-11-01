@@ -12,7 +12,7 @@
 
 ## Intro
 
-Dedicated and result-driven Cybersecurity graduate and IT professional, with a background in network management, troubleshooting, and enhancing security measures. Proven expertise in IT support, network security, scripting, and diverse operating systems. Committed to safeguarding digital environments and driving efficiency in Cybersecurity. I hold eight active certifications from organizations such as CompTIA, LPI, ISC2, and Axelos.
+Dedicated and result-driven Cybersecurity graduate and IT professional, with a background in network management, troubleshooting, and enhancing security measures. Proven expertise in IT support, network security, scripting, and diverse operating systems. Committed to safeguarding digital environments and driving efficiency in Cybersecurity. I hold multiple active certifications from organizations such as CompTIA, LPI, ISC2, and Axelos.
 
 Recently, I obtained my BS in Cybersecurity and Information Assurance at Western Governors University. This program has taught me the technical and logical skills needed to pursue a career in Cybersecurity. My ultimate goal is to find an organization to work for long term that has a strong sense of community and plenty of growth opportunities.
 
