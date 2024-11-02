@@ -18,7 +18,7 @@ Recently, I obtained my BS in Cybersecurity and Information Assurance at Western
 
 While my education and experience has taught me a variety of skills for the Cybersecurity industry, I still have a lot to learn. In 2025, my goals are to become proficient in Microsoft Azure, Amazon Web Services, and Splunk. I am also studying to obtain my CCSP certification from ISC2.
 
-I am open to relocation and more than willing to work onsite. I look forward to connecting with you!
+
 
 ---
 
