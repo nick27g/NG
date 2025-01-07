@@ -16,7 +16,9 @@ Dedicated and result-driven Cybersecurity graduate and IT professional, with a b
 
 Recently, I obtained my BS in Cybersecurity and Information Assurance at Western Governors University. This program has taught me the technical and logical skills needed to pursue a career in Cybersecurity. My ultimate goal is to find an organization to work for long term that has a strong sense of community and plenty of growth opportunities.
 
-While my education and experience has taught me a variety of skills for the Cybersecurity industry, I still have a lot to learn. In 2025, my goals are to become proficient in Microsoft Azure, Amazon Web Services, and Splunk. I am also studying to obtain my CCSP certification from ISC2.
+While my education and experience has taught me a variety of skills for the Cybersecurity industry, I still have a lot to learn. In 2025, my goals are to become proficient in Microsoft Azure, Amazon Web Services, and Splunk. I am also studying to pass the ISC2 CCSP exam.
+
+I am open to both onsite and remote work, as well as relocation. I look forward to connecting with you!
 
 
 
