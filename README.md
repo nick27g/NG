@@ -22,7 +22,7 @@ I am open to both onsite and remote work, as well as relocation. I look forward 
 
 ---
 
-## Skills
+## Projects
 
 | Project                 | Skills/Knowledge Gained                                         |
 |------------------------------------|-------------------------------------------------|
@@ -35,10 +35,16 @@ I am open to both onsite and remote work, as well as relocation. I look forward 
 
 ---
 
-## Tools
-  - nmap
-  - Wireshark
-  - Autopsy
+## Skills & Tools
+| RMF | eMASS | ACAS/Tenable | Nessus |
+|:---:|:-----:|:------------:|:------:|
+| SCAP/STIG | Elastic | KQL | Power BI |
+| Power Automate | Power Apps | SharePoint | Azure |
+| PowerShell | Bash | Python | Windows Server |
+| RHEL | Ubuntu | Active Directory | ITIL Framework |
+| Incident Response | Vulnerability Management | Audit & Compliance | Zero Trust |
+
+
 
 ---
 
