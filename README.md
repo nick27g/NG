@@ -12,11 +12,9 @@
 
 ## Intro
 
-Dedicated and result-driven Cybersecurity graduate and IT professional, with a background in network management, troubleshooting, and enhancing security measures. Proven expertise in IT support, network security, scripting, and diverse operating systems. Committed to safeguarding digital environments and driving efficiency in Cybersecurity. I hold multiple active certifications from organizations such as CompTIA, LPI, ISC2, and Axelos.
+Cleared Cybersecurity professional with a proven record of overseeing risk management, compliance programs, and technical security operations within complex DoD environments. Skilled in leveraging the Microsoft Power Platform, Elastic, and Tenable Security Center to automate reporting, visualize cyber metrics, and improve system readiness. Known for delivering clear, actionable risk guidance to leadership and strengthening operational security through disciplined governance, automation, and collaborative problem-solving. Committed to ongoing professional development, with plans in 2026 to pursue both CISSP and CISM certifications.
 
-Recently, I obtained my BS in Cybersecurity and Information Assurance at Western Governors University. This program has taught me the technical and logical skills needed to pursue a career in Cybersecurity. My ultimate goal is to find an organization to work for long term that has a strong sense of community and plenty of growth opportunities.
-
-While my education and experience has taught me a variety of skills for the Cybersecurity industry, I still have a lot to learn. In 2025, my goals are to become proficient in Microsoft Azure, Amazon Web Services, and Splunk. I am also studying to pass the ISC2 CCSP exam.
+A few of my hobbies include playing video games, reading science fiction or fantasy novels, working out, or trying new recipes. I'm also a Town Hall 17 in Clash of Clans!
 
 I am open to both onsite and remote work, as well as relocation. I look forward to connecting with you!
 
